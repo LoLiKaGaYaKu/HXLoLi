@@ -47,5 +47,13 @@ export const friendLinks: FriendLink[] = [
     avatar: "https://avatars.githubusercontent.com/u/103022267",
     description: "ここから先は一方通行だ!",
   },
+  {
+    name: "网站名称",
+    owner: "提交人名称",
+    url: "https://hengxin666.github.io/HXLoLi", // 网站 URL
+    github: "https://github.com/HengXin666",    // Github 主页地址
+    avatar: "https://avatars.githubusercontent.com/u/103022267", // 头像 URL
+    description: "ここから先は一方通行だ!",       // 简介 (不超过 50 字)
+  },
   // ↑↑↑ 在这里添加你的友链 ↑↑↑
 ];
